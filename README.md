@@ -2,6 +2,8 @@
 [![GitHub Release](https://img.shields.io/github/v/release/matiaspacheco/OfusPy?include_prereleases)](https://github.com/matiaspacheco/OfusPy/releases)
 ![GitHub Size](https://img.shields.io/github/repo-size/matiaspacheco/OfusPy)
 
+Versión actualizada en https://github.com/wehaaportal/OfusPy
+
 # OfusPy
 > Sistema básico para comprimir y ofuscar código Python
 
